@@ -11,6 +11,15 @@ Data preprocessing and cleaning for health-related datasets
 Training ML models for disease prediction
 Model evaluation with accuray and metrics
 Sorting trained model for reuse
+Easy_to_use Interface via Jupyter Notebook
+
+Technologies used
+
+Python 3.x
+Numpy, Pandas - Data handling
+Scikit_learn - Machine learning algorithms
+Matplotlib, Seaborn - Visualization
+Joblib - Model persistence
 
 Craeate and activates a virtual environment(recommended): python -m venv venv source venv/bin/activate # On Linux\Mac venv\ Scripts \activate # On Windows
 
